@@ -1,0 +1,2 @@
+from consulate import Consul
+
